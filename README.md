@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏽‍💻 Hi, I'm Eduardo, a Software Engineer and Computer Science student, geek and tech lover.<br>👾 Currently I've been working as a front-end engineer with React and Micro-Frontends.<br>📒 Already had the privilege to act as a tutor for software developer bootcamps.<br>📱 You can reach me at my e-mail: eduardosoaresdutra@gmail.com.<br>
+🧑🏽‍💻 Hi, I'm Eduardo, a Software Engineer graduated in Computer Science, geek and tech lover.<br>👾 Currently I've been working as a front-end engineer with React and Micro-Frontends.<br>📒 Already had the privilege to act as a tutor for software developer bootcamps.<br>📱 You can reach me at my e-mail: eduardosoaresdutra@gmail.com.<br>
 
 
 ## 🌐 Socials:
